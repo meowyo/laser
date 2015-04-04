@@ -4,4 +4,3 @@
 this is a test.
 a
 a
-a
